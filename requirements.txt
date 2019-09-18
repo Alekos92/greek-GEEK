@@ -1,0 +1,11 @@
+flask
+flask_cors
+gevent
+networkx
+sortedcontainers
+zeep
+conllu
+py2neo
+nltk
+unidecode
+fuzzywuzzy
