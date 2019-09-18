@@ -5,7 +5,7 @@ networkx
 sortedcontainers
 zeep
 conllu
-py2neo
+py2neo==3.1.2
 nltk
 unidecode
 fuzzywuzzy
